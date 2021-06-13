@@ -37,5 +37,9 @@ Eligible Mentors by Position
 ## Summary
 This report has found that over 90,000 employees will likely be retiring in the near future, and that, given the number of eligible mentors, any mentorship program would have to pair many new employees with mentors. Moreover, this assumes that a high percentage of eligible employees would agree to become mentors. This suggests that there may not be enough mentors available to successfully implement a mentorship program for all newly-hired employees.
 
-Broader search: born 1960-1965 and worked at least 10 years in company
+To give a different picture of the potential for the mentorship program, we can also examine a more reasonable eligibility set: employees born between 1960 and 1965. Running a second query to get a count of eligible mentors by position, we get the following result.
+
+![image](https://user-images.githubusercontent.com/80861610/121793425-d0b19d00-cbcc-11eb-9a4e-208cfebd7f67.png)
+
+We see that if we extend the set of eligible mentors in this way, we get a much larger number of potential mentors, and implementing a mentorship program becomes much more feasible.
 
